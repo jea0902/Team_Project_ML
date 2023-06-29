@@ -34,9 +34,9 @@
    * XGBoost
    * SVC
    * 의사결정트리
-   * 라이트GBM
+   * LightGBM
 
-    위 모델들을 ROC곡선, 기능 중요도에 대한 SHAP,
+    위 모델들을 ROC AUC 곡선, feature importance에 대한 SHAP,
     순열, Feature 중요도로 검증,평가하여
 
     과적합 규제 기능이 강하고,
