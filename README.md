@@ -50,4 +50,5 @@
 ## <프로젝트 정리 - 발표자료>
 https://github.com/jea0902/mini_project_ML/blob/main/1%EC%A1%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85pt.pdf
 ---
-### <프로젝트 회고 - 2023.07.01까지 끝낼 예정>
+### <프로젝트 회고>
+
