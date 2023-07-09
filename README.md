@@ -16,6 +16,28 @@
 
 ## <프로젝트 개요>
 ![화면 캡처 2023-06-29 120224](https://github.com/jea0902/mini_project_ML/assets/62950552/cf5b7442-73e4-481d-b0b9-1f54849ce9e1)
+
+![0-1](https://github.com/jea0902/Team_Project_ML/assets/62950552/bfe18309-ad8d-4c6a-8564-579b455b3b5f)
+
+![0](https://github.com/jea0902/Team_Project_ML/assets/62950552/4d121bf6-72ac-483c-9f8e-56b90f19fda5)
+
+![1](https://github.com/jea0902/Team_Project_ML/assets/62950552/72351349-af4a-43cd-b621-b443b77f6e75)
+
+![2](https://github.com/jea0902/Team_Project_ML/assets/62950552/ec254ff5-e930-48ac-9075-eeba0c489a42)
+
+![3](https://github.com/jea0902/Team_Project_ML/assets/62950552/63718ba9-069d-47e8-86a1-f2a67468affc)
+
+![4](https://github.com/jea0902/Team_Project_ML/assets/62950552/ea27aebb-22d1-485e-82db-91c1ee6c4d51)
+
+![5](https://github.com/jea0902/Team_Project_ML/assets/62950552/df7181aa-173c-4a3e-af72-876b09c653e6)
+
+![6](https://github.com/jea0902/Team_Project_ML/assets/62950552/d9e3a625-3e13-4abd-a2f4-26b840bf2593)
+
+![7](https://github.com/jea0902/Team_Project_ML/assets/62950552/5b0aa60d-b120-4c55-9934-c2df243ed638)
+
+![8](https://github.com/jea0902/Team_Project_ML/assets/62950552/0165609d-4ef6-4f3b-b2c6-97de11b17228)
+
+
 ---
 ## <프로젝트 내용>
 1. ML
