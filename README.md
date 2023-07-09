@@ -37,11 +37,9 @@
    * LightGBM
 
     위 모델들을 ROC AUC 곡선, feature importance에 대한 SHAP,
-    순열, Feature 중요도로 검증,평가하여
+    순열, Feature 중요도로 영향력 있는 Feature들 역시 검증해보았고,
 
-    과적합 규제 기능이 강하고,
-    분류와 회귀영역에서 뛰어난 예측 성능을 가졌기에
-    XGBoost를 최종 모델로 선정
+   예측 점수를 중심으로 우수한 모델인 그래디언트 부스팅 모델을 최종 모델로 선정했습니다.
    
 3. 솔루션 제안
    * 도출된 인사이트들로 솔루션 제안
@@ -51,4 +49,4 @@
 https://github.com/jea0902/mini_project_ML/blob/main/1%EC%A1%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85pt.pdf
 ---
 ### <프로젝트 회고>
-
+https://github.com/jea0902/Team_Project_ML/blob/main/%EC%9E%AC%ED%98%81_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%9A%8C%EA%B3%A0.ipynb
