@@ -45,7 +45,7 @@
    * 도출된 인사이트들로 솔루션 제안
 
 ---
-## <프로젝트 정리 - 발표자료>
+### <프로젝트 정리 - 발표자료>
 https://github.com/jea0902/mini_project_ML/blob/main/1%EC%A1%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85pt.pdf
 ---
 ### <프로젝트 회고>
